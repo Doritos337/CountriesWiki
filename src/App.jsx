@@ -5,7 +5,7 @@ import { CountriesProvider } from '../src/context/CountriesDataContext'
 import CountriesListRoute from './routes/CountriesListRoute'
 import CountryDetailsRoute from './routes/CountryDetailsRoute'
 import ErrorRoute from './routes/ErrorRoute'
-import Layout from './pages/layout/layout'
+import Layout from './pages/layout/Layout'
 function App() {
 
   let router = createBrowserRouter ([
