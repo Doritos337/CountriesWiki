@@ -1,12 +1,38 @@
-# React + Vite
+# 🌍 Countries Wiki Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **countries encyclopedia** built with **React.js, Zustand, Redux, and Tailwind CSS**.
+Users can browse or search for a country to view **key statistics** and **national symbols** such as flags.
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://countrieswikiwebapp.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 📋 Browse a complete list of countries
+* 🔍 Search countries by name
+* 📊 View key statistical indicators (population, area, etc.)
+* 🏳️ Display national symbols such as flags
+* ⚡ State management with **Zustand & Redux**
+* 🎨 Responsive UI with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js, Tailwind CSS
+* **State Management:** Zustand, Redux
+* **Deployment:** Netlify
+
+---
+
+## 🚀 Installation & Setup
+
+npm install
+npm run dev
+
+---
+
+## 👨‍💻 Author
+
+Developed by [Doritos337](https://github.com/Doritos337)
